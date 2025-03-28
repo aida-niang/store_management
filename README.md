@@ -77,7 +77,7 @@ modules/stock.py: View stocks of products
 
 ## Contributing
 
-This project was developed by:
+This is a personal project, but I'm open to feedback and suggestions!
 - [Aida NIANG](https://github.com/aida-niang/)
 
 ## License
@@ -86,7 +86,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-This is a personal project, but I'm open to feedback and suggestions!
+Thank you to my mentors and peers for all their constructive feedback and suggestions!
 
 ## Built With
 
