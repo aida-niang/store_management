@@ -86,7 +86,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-Thanks to everyone who contributed to the development of this game!
+This is a personal project, but I'm open to feedback and suggestions!
 
 ## Built With
 
