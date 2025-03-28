@@ -1,4 +1,4 @@
-# Pokémon Game in Python
+# Store Management
 
 ![preview main](./frame_1.png)
 
